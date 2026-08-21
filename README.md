@@ -1,5 +1,5 @@
 #  About Me:
-   Full Stack MERN Developer  <br>💻 Building scalable and responsive web apps  <br>🤝 Open for collaboration on real-world projects  <br> Currently leveling up in React & Backend Development  <br>💬 Ask me about Full Stack Web Development  <br>  Passionate about coding & creating impactful projects 
+• Full Stack MERN Developer  <br> • Building scalable and responsive web apps  <br>• Open for collaboration on real-world projects  <br> • Currently leveling up in    • React & Backend Development  <br> • Ask me about Full Stack Web Development  <br>  • Passionate about coding & creating impactful projects 
 
 
 ## 🌐 Socials:
